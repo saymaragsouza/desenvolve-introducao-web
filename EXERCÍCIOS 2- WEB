@@ -1,0 +1,15 @@
+1. Analisar a seguinte URL:https://www.nytimes.com/2023/08/28/science/birds-flycatcher-migration.html 
+•Protocolo: https
+•Domínio: www.nytimes.com
+•Caminho: /2023/08/28/science
+•Parâmetros: Nenhum
+
+2. tripés da web:
+**http: A web foi implementda para poder ser executada em cima da internet e por se tratar de um servço, é necessário 
+implementar um protocolo que vai determinar como os dados desses serviços serão trafegados, esse protocolo é o http  
+
+**html: Para representar um documento de hipertexto na web, você precisa de uma linguagem que vai organizar as informações contidas no documento
+de hipertexto e a linguagem responsável por fazer essa estrutura é o html.
+
+**URL: Endereçar unicamente cada um dos documentos presentes na rede para que o usuário possa acessar esses documentos sem grandes problemas
+e essa identificação é feita atraves do url. A combinação das informações dentro da url, vai permitir que eu recupere qualquer documento presente dentro da rede.
