@@ -1,0 +1,12 @@
+1.TAGS: Delimita o espaço que o elemento irá ocupar.
+Corpo: conteúdo que a tag possui e que por consequência irá ser exibida para o usuário.
+Atributos: Conjunto de propriedades que declaramos na abertura da tag para passar informações adicionais para o elemento criado.
+
+2.  Não possuem corpo e o conteúdo muitas vezes, está presente de forma externa á página. Exemplos: imagens e campos de formulários 
+
+3.(página aberta no navegador com o texto digitado no bloco de notas)
+
+4.a) header e footer
+b) nav, header, body, html
+c) h1, nav
+d) 6
