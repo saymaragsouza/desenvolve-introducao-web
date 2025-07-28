@@ -1,0 +1,52 @@
+/*
+Primeiro exercício:
+
+*/ 
+a {
+ color: red;
+ 
+}
+
+a:hover {
+ color: lime;
+ 
+}
+
+/*
+Segundo exercício:
+
+*/ 
+p{
+
+font-family: 'Arial';
+
+}
+
+h1+p {
+    font-weight: bold;
+}
+
+
+/*
+Terceiro exercício:
+
+*/ 
+
+.destaque {
+
+font-family: Arial;
+
+}
+
+
+p.destaque {
+
+font-weight:Bold;
+
+}
+
+strong.destaque{
+
+color: red;
+
+}
