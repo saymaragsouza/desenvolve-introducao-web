@@ -1,0 +1,221 @@
+/* Color Theme Swatches in Hex */
+/*
+.principal { color: #400135; }
+.Moda-2-hex { color: #222326; }
+.Moda-3-hex { color: #769DA6; }
+.destaque { color: #BF996B; }
+.background { color: #D9C2BA; }
+*/
+
+
+
+.page-wrapper {
+    width: 80%;
+    max-width: 1280px;
+    margin:auto; 
+}
+
+.main footer {
+  
+    margin: 4%;
+  
+}
+
+
+.main footer a {
+    border: solid 2px #400135;
+    padding: 0.5em;
+    display: inline-block;
+   
+}
+
+
+aside ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+aside ul li {
+    margin: 1em;
+    text-align: center;
+}
+
+
+#zen-intro {
+    height: 550px;
+}
+
+
+#design-archives {
+    display: none;
+}
+
+
+#zen-intro header {
+    background-color: #400135;
+    color:#D9C2BA;            
+
+}
+
+
+#zen-intro header h1{
+
+margin-left: 1em;
+margin-right: 1em;
+
+}
+
+
+
+#zen-intro header h1, #zen-intro header h2 {
+    display: inline-block;
+}
+
+
+
+html{
+
+
+background:#D9C2BA;
+
+color:#400135;
+
+font-size:18px;
+font-family: Arial;
+
+}
+
+
+
+
+p {
+    text-indent: 1em;
+}
+
+
+h1 {
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+
+.summary {
+    text-align: right;
+}
+
+.main p {
+    line-height: 1.5;
+}
+
+
+abbr {
+    font-variant: small-caps;
+}
+
+
+
+
+
+.page-wrapper {
+    position: relative;
+}
+
+
+.explanation {
+    width: 60%;
+    border-right: solid 1px#400135;
+    padding-right: 2%;
+  
+}
+
+
+.design-selection {
+    position: absolute;
+    top: 560px;
+    left: 62%;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+
+
+
+.supporting footer  {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.benefits {
+    display: flex;
+    border-top: #400135 solid 1px;
+    border-bottom:  #400135 solid 1px;
+}
+
+.benefits p {
+    Flex-basis: 70%;
+}
+
+.benefits h3 {
+order:2;
+    align-self:center;
+    flex-basis:30%;
+}
+
+
+.participation {
+    display: flex;
+flex-wrap:wrap;
+ border-top: #400135 solid 1px;
+}
+
+.participation p {
+    Flex-basis:50%;}
+
+
+
+.participation h3 {
+Align-self:center;
+Flex-basis:50%;}
+
+/*atividade pseudo classes */
+a{
+    color:#BF996B;
+}
+
+
+a:hover {
+    color:#aa732f80;
+ 
+}
+
+
+
+.main p:first-of-type::first-letter {
+  font-size: 3em;
+  font-family: 'Times New Roman',Times,serif;
+  float:left;
+}
+
+.design-selection li {
+ border-top: #400135 solid 1px;
+  padding-top:5px;
+}
+
+.design-selection li:last-of-type {
+  border-bottom:#400135 solid 1px ;
+  padding-bottom: 5xp;
+}
+
+
